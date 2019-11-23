@@ -1,4 +1,4 @@
-#include "eigen/include/SparseFactorization.h"
+#include "eigen-wrapper/SparseFactorization.h"
 #include <emscripten/bind.h>
 
 using namespace emscripten;

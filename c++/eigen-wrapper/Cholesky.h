@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Eigen/SparseCholesky>
+#include "../Eigen/SparseCholesky"
 
 template<typename T>
 class DenseMatrix;

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Eigen/SparseLU>
+#include "../Eigen/SparseLU"
 
 template<typename T>
 class DenseMatrix;

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Eigen/SparseQR>
+#include "../Eigen/SparseQR"
 
 template<typename T>
 class DenseMatrix;

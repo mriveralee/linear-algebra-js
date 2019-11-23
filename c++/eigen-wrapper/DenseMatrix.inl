@@ -1,4 +1,4 @@
-#include <Eigen/Dense>
+#include "../Eigen/Dense"
 
 template<typename T>
 DenseMatrix<T>::DenseMatrix(int m, int n)
